@@ -1,0 +1,350 @@
+
+body {
+
+	background: #fff url('imagens/fundo.png') repeat-x top center;
+
+
+}
+
+ body.home #navegacaotopo a#home,
+ body.brasil #navegacaotopo a#brasil,
+ body.flores #navegacaotopo a#foto{
+ 	color: #fff;
+ 	background: #de003e;
+ 	cursor: text;
+
+
+ }
+
+
+#container{
+
+	width: 750px;
+	margin: 0 auto;
+	background:url('imagens/detalhe-topo.png') no-repeat right top;
+
+}
+
+#topo{
+
+	border: 1px solid transparent;	
+	background:url('imagens/logo.png')no-repeat left top;
+	height: 180px;
+	margin: 15px;
+}
+
+#navegacaotopo{
+
+	
+	margin-top:110px;
+	height: 30px;
+	text-align: center;
+	padding-top: 20px;
+	padding-left: -550px;
+	background-color:  #b30000;
+	width: 598px;
+
+}
+
+a.linktopo{
+	background:  #b30000 url('imagens/divisor.png') repeat-y right;
+	color: #fff;
+	padding: 22px;
+	padding-top: 21px; 
+	padding-bottom: 15px;
+	text-decoration: none;
+}
+
+a:hover.linktopo{
+
+	background-color:#ff3333;
+	color: black;
+}
+
+
+
+#navegacaolateral{
+
+	
+	float: left;
+	width: 200px;
+	height: 450px;
+	margin-left: 220px;
+	margin-top: 20px;
+	text-align: left;
+
+	
+}
+
+.lateral{	
+	text-decoration: none;
+	background:none;
+	color: black;
+	display: block;
+	padding: 13px;
+}
+
+
+a:hover.lateral{
+	
+	background: #f9f9f9 url('imagens/marcador.png') no-repeat left ;
+	padding-left: 25px;
+	color: #a1a1a1;
+}
+
+#formulario{
+
+	float: left;
+	width: 205px;
+	margin-left: -205px;
+	margin-top: 500px;
+	
+}
+
+input{
+
+	padding: 8px;
+	margin-top: -5px;
+}
+
+
+
+p.tituloemail {
+
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: 12px;
+	margin-bottom: 5px;
+
+	
+}
+
+
+input[type="text"]{
+
+	border: 1px solid #87CEFA;
+	width: 190px;
+}
+
+.corbotao{
+
+	margin-top: 5px;
+	color:#FFFAF0;
+	background: #B22222;
+}
+
+
+
+
+
+h2 {
+
+	background-color: #4663b9;
+	padding: 7px;
+	color: white;
+	
+}
+
+h3{
+
+	margin-top: 30px;
+	text-decoration: none;
+	color: #1a8cff;
+	font-size: 15px;
+	text-align: center;
+	margin-top: -40px;
+	margin-left: 70px;
+
+}
+
+h4{
+
+	text-align: center;
+	color: #F8F8FF;
+	width: 200px;
+	margin-top: -20px;
+	background-color: 	#bf4040;
+	padding: 5px;
+}
+
+img{
+
+	width: 275px;
+}
+
+p{
+	margin-top: 3px;
+	margin-bottom: -2px;
+}
+
+
+#direita{
+
+	
+	float: right;
+	width:  270px;
+	height: 400px;
+	margin-top: 20px;
+	margin-right: 220px;
+
+}
+
+
+
+#principal2{
+
+
+	clear: both;
+	float: left;
+	width: 280px;
+	margin-left: 450px;
+	margin-top: -650px;
+	height: 400px;
+}
+
+a.leia{
+	
+	text-decoration: underline;
+	background:none;
+	color: red;
+	padding: 0px;
+	padding-left: -15px;
+	padding-top: -10px;
+	
+}
+
+#mundo{
+
+	
+	padding-bottom: 50px;
+	margin-top: 60px;
+	height: 200px;
+	width: 280px;
+	height: 50px;
+}
+
+
+#crise{
+
+	
+	height: 200px;
+	margin-top: -35px;
+}
+
+img.fotomundo{
+
+	margin-top: -15px;
+	width: 120px;
+	float: left;
+	background: none;
+}
+
+
+.textomundo{
+
+	color: black;
+	text-decoration: none;
+	float: left;
+	margin-top: -70px;
+	margin-left: 120px;
+	
+}
+
+a.linkmundo{
+	text-decoration: none;
+}
+
+#noticiasrecentes{
+
+
+	
+	padding-bottom: 50px;
+	margin-top: 60px;
+	height: 200px;
+	width: 280px;
+	height: 50px;
+	
+}
+
+
+
+img.fotonoticia{
+
+	margin-top: -15px;
+	width: 120px;
+	float: left;
+	background: none;
+
+
+}
+
+#rodape{
+
+	
+	font-size: 20px;
+	text-align:center;
+	color: white;
+	background:  #4663b9;
+	padding: 15px;
+	margin-top: 50px;
+	width: 1275px;
+	margin-left: -500px;
+	
+}
+
+#principal{
+
+	width: 270px;
+	float: left;
+	margin: 0 0 20px 195px;
+	
+}
+
+#uma-coluna #principal{
+
+	width: 750px;
+	margin: 0 0 20px 0px;
+}
+
+#duas-coluna #principal{
+
+	text-align: justify;
+	width: 750px;
+}
+
+
+
+.brasil img[src="imagens/doutor.jpg"]{
+
+	width: 750px;
+}
+
+.flores img[src="imagens/tecnologia.jpg"],[src="imagens/cidade.jpg"],[src="imagens/capa.png"]{
+
+
+	margin-left: 200px;
+	width: 750px;
+}
+
+.foto{
+
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+p.foto1{
+
+	margin-left: 200px;
+	padding: 10px;
+}
+
+h4.legenda-foto{
+
+	text-align: center;
+	color: #F8F8FF;
+	width: 200px;
+	margin-left: 205px;
+	margin-top: 10px;
+	background-color: 	#bf4040;
+	padding: 5px;
+}

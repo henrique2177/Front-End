@@ -1,0 +1,343 @@
+
+/*Inicio topo*/
+
+*{
+
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+
+	position: absolute;
+	background: black;
+	width: 100%
+}
+
+#container{
+
+	
+	height: 60px;
+	width:100%;
+}
+
+#container img{
+
+
+	float: left;
+	width: 150px;
+	margin-left: 15px;
+	margin-top: 2px;
+	height: 60px;
+	border: none;
+
+}
+
+#menu{
+
+	float: left;
+	color: white;
+	margin-top: 25px;
+	margin-left: 10px;
+
+}
+
+span{
+
+	padding: 5px;
+	font-size: 16px;
+}
+
+#lupa img{
+
+	float: right;
+	height: 18px;
+	width: 18px;
+	margin-left: 700px;
+	margin-top: -20px;
+
+}
+
+.infantil {
+	position: absolute;
+	float: right;
+	color: white;
+	margin-left: 730px;
+	margin-top: -20px;
+}
+
+#presente img{
+
+	position:absolute;
+	float: right;
+	width: 18px;
+	height: 18px;
+	margin-left: 820px;
+	margin-top: -20px;
+
+	
+}
+
+#alerta img{
+
+	position:absolute;
+	float: right;
+	width: 18px;
+	height: 18px;
+	margin-left: 870px;
+	margin-top: -20px;
+}
+
+#login span{
+
+	padding: 5px 25px;
+	border: 1px solid red;
+	position: relative;
+	float: right;
+	color: white;
+	margin-right: -300px;
+	margin-top: -25px;
+	background: #e50914;
+}
+
+/*Fim do topo*/
+
+/*Inicio Principal*/
+
+#poster img{
+
+	height: 700px;
+	width: 100%;
+	background-color: 
+}
+
+h1{
+
+	clear: both;
+	color: #330000;
+	position: absolute;
+	margin-top: -580px;
+	margin-left: 30px;
+	font-size: 60px;
+}
+
+h2{
+	color: #330000;
+	margin-top: -490px;
+	margin-left: 30px;
+}
+
+p{
+	margin-top: 8px;
+	margin-left: 30px;
+	width: 320px;
+	text-align: justify;
+	font-size: 20px;
+	color:#8C0202 ;
+}
+
+#poster a{
+	
+	border: none;
+	margin-left: 25px;
+	padding: 8px 40px 8px 50px;	
+	margin-right: -20px;
+	text-transform: uppercase;
+	text-decoration: none;
+	color:white;
+	font-weight: bold;
+	background: rgb(51,51,51,0.4); ;
+
+
+}
+
+
+#play img{
+
+	position: absolute;
+	width: 25px;
+	height: 25px;
+	margin-left: -80px;
+	margin-top: -2px;
+
+	
+}
+
+#poster a:hover{
+	
+	color: black;
+	background: white;
+	
+
+}
+	/*Fim Principal*/
+/*-----------------------------------------------------------------------*/
+	/*Inicio Formulario*/
+
+#fundo{
+
+	background: url('imagens/netflix.jpg');
+
+
+}
+
+#containerLogin {
+
+	
+	background: rgba(0,0,0,.75);
+	margin-left: 400px;
+	margin-top: 90px;
+	height: 700px;
+	width: 450px;
+	
+	font-size: 40px;
+
+}
+
+.entra {
+
+	color: white;
+	padding: 45px;
+	font-size: 40px;
+	margin-bottom: -25px;
+}
+
+input{
+
+	border: none;
+	padding: 15px 80px 10px 50px;
+	margin-left: 78px;
+	background: #333;
+	margin-bottom: 20px;
+	color: white;
+}
+
+#botao input {
+
+	background: #e50914;
+	padding: 20px 132px;
+	margin-top:5px;
+	margin-bottom: 5px;
+	font-size: 15px;
+
+}
+
+.esquece{
+
+	position: relative;
+	color:#b3b3b3;
+	float: left;
+	margin: 0px 100px ;
+	margin-top: -40px;
+	font-size: 15px;
+}
+
+#radio input{
+	
+	margin-right: 50px;
+	background: #b3b3b3;
+
+
+}
+
+.ajuda p{
+
+	float: right;
+	margin-right: -145px;
+	margin-top: -40px;
+	font-size: 15px;
+	color:#b3b3b3;
+
+}
+
+.face img{
+
+	width: 20px;
+	height: 20px;
+	float: left;
+	margin-top: 22px;
+	margin-left: 80px;
+	margin-right: 5px;
+}
+
+a{
+
+	text-decoration: none;
+	color: #b3b3b3;
+
+
+}
+
+.novo{
+
+	margin-left:80px;
+	color:  #b3b3b3;
+}
+
+.novo a{
+
+	
+	color: white;
+}
+
+.protegida{
+
+	margin-left:80px;
+	color:  #b3b3b3;
+	font-size: 15px;
+	margin-top: 15px;
+}
+
+.protegida a{
+
+	color: #0071eb;
+
+}
+
+a:hover{
+
+	text-decoration: underline;
+
+
+}
+/*Fim formulario*/
+
+
+/*-----------------------------------------------------------------------*/
+
+#recomendado{
+
+
+	color: white;
+	margin-top: 298px;
+	font-size: 25px;
+	width: 100%;
+	margin-left: 50px;
+
+}
+
+
+
+
+img{
+
+
+	width: 280px;
+	height: 200px;
+	margin-left: 5px;
+	margin-top: 10px;
+
+
+}
+
+
+#melhores {
+
+	color: white;
+	margin-top: 20px;
+	font-size: 25px;
+	width: 100%;
+	margin-left: 50px;
+
+
+}

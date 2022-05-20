@@ -1,0 +1,243 @@
+
+/* Inicio do topo*/
+body#topo{
+
+	background: #f4f2ec url(../assets/images/fundo.png) repeat-x;
+}
+
+
+#logo a{
+	width: 248px;
+	height: 21px;
+	text-indent: -9999px;
+	display: block;
+	background: url('../assets/images/logo.png') no-repeat;
+	margin-top: 50px;
+	margin-left: 70px;
+
+}
+#lista {
+
+	margin: -10px;
+}
+nav ul{
+
+	font-size: 15px;
+	list-style: none;
+	padding-right: 15px;
+float:right;
+}
+
+nav ul li{
+
+	float: right;
+	padding: 10px;
+	margin-top: -35px;
+	text-transform: uppercase;
+}
+
+a:link, a:active, a:visited {
+
+	color: #af670a;
+	text-decoration: none;
+}
+
+a:hover{
+
+	color: #227115;
+}
+
+/* Fim do topo*/
+
+/* foto do museu principal */
+#conteudo{
+
+	width: 710px;
+	float: left;
+	margin-left: 70px;
+}
+
+/* Foto do depoimento*/
+
+#depoimento{
+
+	float: right;
+	margin-right: 100px;
+}
+
+
+/* Inicio do marque uma visita*/
+
+#visita{
+
+	width: 350px;
+	float: right;
+	margin-right: 100px;
+	height: 160px;
+	background: #cdc8b1;
+	margin-top: 10px;
+	padding: 20px -5px 27px 27px;
+}
+
+h4{
+
+	color: #86521a;
+	text-transform: uppercase;
+	padding-bottom: 3px;
+	margin-bottom: 0;
+	padding-left: 5px;
+}
+
+input{
+
+	width: 80px;
+	height: 20px;
+	background: #fff;
+	border: none;
+	font-size: 1em;
+}
+
+input.campo{
+
+	border: 1px solid #ada484;
+	width: 120px;
+
+}
+
+button{
+
+	background: #9b9271;
+	color: white;
+	width: 80%;
+	height: 40px;
+	font-size: 1.2em;
+	margin-top: 10px;
+	margin-left: 28px;
+}
+
+fieldset{
+
+	border:none;
+}
+
+legend{
+
+	display: none;
+}
+
+/* Fim do marque uma visita*/
+
+/* Inicio da galeria de fotos */
+
+#galeria-fotos {
+
+	position: absolute;
+	background: #FAFAD2;
+    width: 350px;
+	float: right;
+	margin-left: 798px;
+	margin-top: 510px;
+	display: block;
+	
+}
+
+#galeria-fotos a{
+
+	margin-top: 5px;
+	margin-left: 25px;
+	padding: 15px  15px 15px 15px;
+	float: left;
+	display: block;
+	background: url('../assets/images/fundo-foto.png') no-repeat ;
+}
+
+/* Fim da galeria de fotos*/
+
+/* Inicio do video e opçoes abaixo do video apresentando o museu*/
+
+#video{
+
+	position: absolute;
+	margin-top: 320px;
+	margin-left: 100px;
+
+}
+
+#video h4{
+
+	padding-bottom: 15px;
+	
+}
+
+
+aside#veja{
+
+	position: absolute;
+	margin-top: 560px;
+	margin-left: 100px;
+	font-size: 17px;
+}
+
+#veja h3{
+
+	color: green;
+
+}
+
+/* Fim do video e opçoes abaixo do video apresentando o museu*/
+
+/*Inicio do mapa e do texto abaixo do mapa*/
+
+#mapa{
+
+	position: absolute;
+	margin-left: 460px;
+	margin-top: 320px;
+
+}
+
+#mapa h4{
+
+	padding-bottom: 15px;
+}
+
+
+aside#historia{
+
+	position: absolute;
+	margin-top: 6px;
+	margin-left: 0px;
+	font-size: 17px;
+
+
+}
+
+#historia h3{
+
+	color: green;
+}
+
+aside p{
+
+	margin-left: -38px;
+	text-align: justify;
+}
+
+/*Inicio do mapa e do texto abaixo do mapa*/
+
+/*Inicio do rodape*/
+
+footer{
+
+	clear: both;
+	margin-top: 1080px;
+	background: url('../assets/images/fundo-rodape.png') no-repeat center top;
+	text-align: center;
+}
+
+footer>p a{
+
+	padding: 2px 10px;
+}
+
+/*Fim rodape*/

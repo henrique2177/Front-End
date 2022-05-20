@@ -1,0 +1,379 @@
+/*LISTA VERTICAL
+
+ul{
+
+list-style: none;
+margin: 0px;
+padding: 0px;
+
+	
+	
+}
+
+ul a {
+
+	text-decoration: none;
+	width: 200px;
+	height: 40px;
+	display: block;
+	color: #000;
+	text-indent: 40px;
+	line-height: 40px;
+	background: url('imagens/menu.png') no-repeat left bottom;
+
+}
+
+a:hover{
+
+	background-position: right bottom;
+	color: #fff;
+}
+
+#index .index a,
+#contato .contato a{
+
+	background-position: right bottom;
+	color: #fff;
+}
+****************************************************************/
+/*
+LISTA HORIZONTAL
+ul{
+
+
+
+	
+	padding: 0px;
+	list-style-type: none;
+	width: 532px;
+	background:#159cb0 url('imagens/fundo-horizontal.png');
+	float: left;
+	
+
+}
+
+ul li{
+
+
+	
+	float: left;
+}
+
+ul a{
+
+	text-decoration: none;
+	display: block;
+	padding: 0 2em;
+	line-height: 2em;
+	color: #fff;
+	background: url('imagens/divisor.png') repeat-y;
+	
+
+}
+
+ul .primeiro a{
+
+	background: none;
+}
+
+
+
+ul a:hover{
+
+	background:#44cade;
+	color: #085662;
+}
+
+#index .index a,
+#contato .contato a
+{
+
+	background:#44cade;
+	color: #085662;
+
+********************************************************/
+/*
+body{
+
+	font-family: 
+}
+
+ul{
+
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	width: 720px;
+
+}
+
+ul li{
+
+	
+	float: left;
+	background: url('imagens/aba-direita.png') no-repeat top right;
+}
+
+ul a{
+
+	float: left;
+	padding: 0 2em;
+	line-height: 3em;
+	text-decoration: none;
+	background: url('imagens/aba-esquerda.png') no-repeat;
+	color: #fff;
+
+}
+
+ul a:hover{
+
+	color: #894a1f;
+}
+
+ul #atual {
+
+	background: url('imagens/aba-direita-atual.png') no-repeat top right;
+
+}
+
+ul #atual a{
+
+	background: url('imagens/aba-esquerda-atual.png') no-repeat;
+}
+***************************************************/
+/*----------------------------------------------------------
+	layout liquido
+
+#container{
+
+
+	width: 85%;
+	margin: 0 auto;
+	min-height: 720px;
+}
+
+#logo{
+
+	
+	height: 200px;
+	background: #225992 url('imagens/cabecalho2.jpg') no-repeat center;
+	text-align: center;
+	line-height: 200px;
+
+}
+
+
+
+#conteudo{
+
+	
+	width: 75%;
+	float:right;
+	
+	
+
+}
+
+#conteudo-principal{
+
+	
+	width: 64%;
+	float: left;
+}
+
+#conteudo-secundario{
+
+	
+	width: 34%;
+	float: right;
+	background: #d1d1d1;
+}
+
+#conteudo-secundario p{
+
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.imagens{
+	
+	width: 90%;
+	padding: 2px;
+	margin: 5px 10px;
+	line-height: 640px;
+}
+
+#navegacao{
+
+	
+	width: 23%;
+	float: left;
+	margin-top: 10px;
+	padding-top: 20px;
+	padding-bottom:85%;
+	background: url(imagens/coluna.png) repeat-y left top;
+}
+
+#navegacao ul, #navegacao li a {
+
+
+	list-style: none;
+	text-decoration: none;
+
+}
+
+#rodape{
+
+	clear: both;
+	background: gray;
+	padding: 5px;
+}
+***************************************************************/
+
+/*************************************************************
+                    TABELA ESTILIZADA
+table{
+
+	width: 600px;
+	border-collapse: separate;
+}
+
+td,th{
+
+	
+	padding: 7px;
+
+}
+
+th{
+
+	text-transform: uppercase;
+	border-top: 1px solid #999;
+	border-bottom: 1px solid #111;
+	letter-spacing: 0.2em;
+	text-align: left;
+	font-size: 90%;
+}
+
+tr.alternado{
+
+	background-color: #efefef;
+}
+tr:hover{
+
+	background-color: #c3e6e5;
+}
+
+.numeros{
+
+	text-align: right;
+}
+****************************************************/
+/***************************************************
+                       ESTILIZANDO FORMULARIOS 
+fieldset{
+
+	padding: 1em;
+	margin:1em;
+	border:1px solid #ccc;
+}
+
+legend{
+
+	font-weight: bold;
+}
+
+label{
+
+	
+	cursor: pointer;
+	display: block;
+
+}
+
+input[type="text"]{
+
+	width: 50%;
+	margin: 2px;
+}
+
+textarea {
+
+	width: 20em;
+	height: 10em;
+
+}
+
+********************************************/
+
+body{
+
+	background: #643d87 url(imagens/fundo.jpg) no-repeat top center ;
+}
+
+#container{
+	
+	width: 400px;
+	height: 300px;
+	background-color: rgba(255, 255, 255, 0.3);
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+	border-radius: 10px;
+	margin:0 auto;
+	margin-top:180px;
+	text-align: center;
+}
+
+#container img{
+
+	width: 120px;
+	height: 120px;
+	margin-top: -60px;
+	margin-bottom: -30px
+	padding-bottom:50px;
+}
+
+input{
+
+	padding: 8px;
+	margin-top:  15px;
+	height: 20px;
+	width: 300px;
+}
+
+input.submit {
+
+	padding: 8px;
+	width: 320px;
+	color: #fff;
+	background-color: #f79300;
+	border: 2px solid #db7d00;
+	height: 40px;
+}
+
+.checkbox{
+
+	margin-top: 15px;
+	margin-left:35px;
+	width:15px;
+
+}
+
+.lembrar{
+
+	font-size: 15px;
+	margin-right:225px;
+	
+}
+
+a{
+	margin-left: 200px;
+	text-decoration: none;
+	color: black;
+	font-size: 15px;
+
+	
+	
+	
+}
+

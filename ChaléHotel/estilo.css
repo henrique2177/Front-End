@@ -1,0 +1,252 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+
+	font-family: Arial, Helvetica, sans-serif;
+	
+}
+
+/*imagem do topo*/
+
+#topo {
+
+	
+	float: left;
+	background:url('imagens/topo-imagem-principal.png') no-repeat left ;
+	padding: 120px;
+	width: 500px;
+	margin: 10px  50px;
+
+}
+
+/*Fim imagem do topo*/
+
+/*imagem do logo*/
+#logo{
+
+	
+	background: url('imagens/logo.png')no-repeat;
+	padding: 60px 80px 20px;
+	margin: 25px 70px;
+	position: absolute;
+	
+}
+/*Fim imagem do logo*/
+
+/*Inicio topo lateral*/
+
+#topo-lateral{
+
+	background: url('imagens/topo-imagem-lateral.png') no-repeat left;
+	float: left;
+	width: 505px;
+	height: 245px;
+	margin: 7.8px -110px;
+	
+}
+
+#topo-lateral li{
+
+	display: inline;
+	color:#8b8448;
+
+
+}
+
+#topo-lateral ul{
+	float: right;
+	margin-right: 110px;
+	margin-top: 25px;
+	padding: 5px;
+	padding-left: 10px;
+	border-width: 1px;
+	border-bottom:1px solid #b5ab56 ;
+	border-top:1px solid #b5ab56
+
+}
+
+
+.reservar{
+	background: #b3b300;
+	border: none;
+	font-size: 11px;
+	color: white;
+	margin-right: -100px;
+	margin-top: -21px;
+	float:right;
+	width: 90px;
+	height: 25px;
+	cursor: pointer;
+	
+}
+
+
+#navegacao{
+
+	float: left;
+	clear: both;
+	margin-top: 5px;
+	margin-left: 100px;
+
+	
+	
+
+}
+
+#navegacao a{
+
+	
+	display: block;
+	margin-top: 1px;
+	text-align: center;
+	padding: 5px;
+	color: 	#7d7640;
+	
+}
+
+
+#navegacao a:hover{
+
+	background:  #F5F6CE;
+
+}
+#depoimento img{
+
+	margin-left: 30px;
+	margin-top: 15px;
+	width: 220px;
+}
+
+/*Fim topo lateral*/
+
+
+/*Inicio conteudo principal*/
+
+
+#conteudo{
+	clear: both;
+	float: left;
+	background: url('imagens/bg-container.png') repeat  -220px ;
+	width: 92.5%;
+	height: 440px;
+	margin: 0px 0px 0px 50px;
+
+
+}
+
+section h2{
+
+	color: #7d7640;
+	padding:12px 25px;
+}
+
+section p{
+
+	width: 520px;
+	padding: 0px 30px;
+	font-size: 1.1em;
+}
+
+/*Fim conteudo principal*/
+
+/*Inicio conteudo principal direito*/
+
+#conteudo-direito{
+
+	
+	
+	position: absolute;
+	width: 570px;
+	height: 400px;
+	margin-top: 280px;
+	margin-left: 650px;
+
+	
+		
+}
+
+#conteudo-direito-apartamento{
+
+	
+	width: 560px;
+	height: 115px;
+	margin-left: 10px;
+	margin-top: 5px;
+
+
+	
+}
+
+ img{
+
+	float: left;
+	width: 180px;
+	padding-right: 10px;
+
+}
+
+h3{
+	color: #615b2d;
+	padding-bottom: 5px;
+}
+
+
+ a{
+
+	color: black;
+	padding-bottom:  5px;
+	text-decoration: none;
+
+	
+}
+
+
+#conteudo-direito-restaurante{
+
+	
+	float: left;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	margin-left: 10px;
+}
+
+#conteudo-direito-piscina{
+
+	
+	float: left;
+	margin-left: 10px;
+
+	
+}
+
+
+#conteudo-direito-apartamento:hover, 
+#conteudo-direito-restaurante:hover, #conteudo-direito-piscina:hover{
+
+	background:  #F5F6CE;
+}
+
+/*Fim conteudo principal direito*/
+
+
+/*Inicio rodape*/
+#rodape{
+
+	background: white url('imagens/bg-rodape.png') repeat-x top ;
+	width: 91.8%;
+	float: left;
+	margin-left: 50px;
+	margin-top: 5px;
+	padding: 5px;
+	
+}
+
+#rodape p{
+
+	color: 	#7d7640;
+}
+
+/*Fim rodape*/

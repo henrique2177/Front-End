@@ -1,0 +1,565 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"num",
+				"numero"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"textr",
+				"text-transform\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"fonts",
+				"font-size\tproperty"
+			],
+			[
+				"le",
+				"letter-spacing\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"l",
+				"left\tproperty"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"ima",
+				"imagem1"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"r",
+				"rgb()\tbackground"
+			],
+			[
+				"pad",
+				"padding-bottom\tproperty"
+			],
+			[
+				"ma",
+				"margin-bottom\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"m",
+				"margin-right\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"a",
+				"align\tAttr"
+			],
+			[
+				"b",
+				"body\tTag"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"backc",
+				"background-color\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"fl",
+				"flex-direction\tproperty"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"cont",
+				"conteudo-direito"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"borderr",
+				"border-radius\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"ju",
+				"justify\ttext-align"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"lin",
+				"linktopo"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"borderbo",
+				"border-bottom-color\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"texta",
+				"text-align\tproperty"
+			],
+			[
+				"padi",
+				"padding\tproperty"
+			],
+			[
+				"texrd",
+				"text-decoration\tproperty"
+			],
+			[
+				"foto",
+				"fotomundo"
+			],
+			[
+				"link",
+				"linkmundo"
+			],
+			[
+				"wo",
+				"word-spacing\tproperty"
+			],
+			[
+				"hei",
+				"height\tproperty"
+			],
+			[
+				"s",
+				"span\tTag"
+			],
+			[
+				"he",
+				"height\tproperty"
+			],
+			[
+				"height",
+				"line-height\tproperty"
+			],
+			[
+				"rg",
+				"rgba()\tcolor"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"blo",
+				"block\tdisplay"
+			],
+			[
+				"bo",
+				"border-bottom\tproperty"
+			],
+			[
+				"borde",
+				"border-collapse\tproperty"
+			],
+			[
+				"cl",
+				"clear\tproperty"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"ri",
+				"border-right-style\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"fa",
+				"font-family\tproperty"
+			],
+			[
+				"magin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"cla",
+				"clear"
+			],
+			[
+				"conte",
+				"conteudo"
+			],
+			[
+				"im",
+				"imagens"
+			],
+			[
+				"ca",
+				"Campanha"
+			],
+			[
+				"ali",
+				"text-align\tproperty"
+			],
+			[
+				"whi",
+				"width\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"alin",
+				"text-align\tproperty"
+			],
+			[
+				"img",
+				"background-image\tproperty"
+			],
+			[
+				"p",
+				"principal"
+			],
+			[
+				"cori",
+				"Corinthians"
+			],
+			[
+				"brasil",
+				"Brasileiro"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"nu",
+				"Numero"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Admin/Documents/ProjetoCSS3/AnaBele/index.html",
+		"/C/Users/Admin/Desktop/MEU SITE/index.html",
+		"/C/Users/Admin/Documents/NOVAS TAGS IMPUT/flexbox.html",
+		"/C/Users/Admin/Documents/NOVAS TAGS IMPUT/IMPUT.HTML",
+		"/C/Users/Admin/Documents/fonts/index.html",
+		"/C/Users/Admin/Documents/curso dev.web/Parallax/parallax.html",
+		"/C/Users/Admin/Documents/curso dev.web/Parallax/estilo.css",
+		"/C/Users/Admin/Documents/curso dev.web/Netflix/login.html",
+		"/C/Users/Admin/Documents/curso dev.web/Netflix/index.html",
+		"/C/Users/Admin/Documents/curso dev.web/Netflix/estilo.css",
+		"/C/Users/Admin/Documents/curso dev.web/ChaléHotel/estilo.css",
+		"/C/Users/Admin/Documents/curso dev.web/ChaléHotel/index.html",
+		"/C/Users/Admin/Documents/Corinthians/index.html",
+		"/C/Users/Admin/Documents/curso dev.web/TecBlog/index.html",
+		"/C/Users/Admin/Documents/curso dev.web/Css avançado/css/foto.html",
+		"/C/Users/Admin/Documents/curso dev.web/Css avançado/css/brasil.html",
+		"/C/Users/Admin/Documents/curso dev.web/Css avançado/css/siteNoticias.css",
+		"/C/Users/Admin/Documents/curso dev.web/Css avançado/css/sitesNoticias.html",
+		"/C/Users/Admin/Documents/curso dev.web/Css avançado/css/estilo.css",
+		"/C/Users/Admin/Documents/curso dev.web/Css avançado/css/tabelasEstilizadas.html",
+		"/C/Users/Admin/Documents/curso dev.web/Css avançado/css/contato.html",
+		"/C/Users/Admin/Documents/curso dev.web/TecBlog/estilo.css",
+		"/C/Users/Admin/Documents/curso dev.web/ProjetoCSS3 intermediario/index.html",
+		"/C/Users/Admin/Documents/curso dev.web/ProjetoCSS3 intermediario/POSICIONAMENTOS(STATIC,RELATIVE,ABSOLUTE E FIXED.html",
+		"/C/Users/Admin/Documents/curso dev.web/ProjetoCSS3 intermediario/sobrepondo elementos.html",
+		"/C/Users/Admin/Documents/curso dev.web/ProjetoCSS3 intermediario/links.html",
+		"/C/Users/Admin/Documents/curso dev.web/ProjetoCSS3 intermediario/elementos-flutuantes.html",
+		"/C/Users/Admin/Documents/curso dev.web/ProjetoCSS3 intermediario/modelo-caixa.html",
+		"/C/Users/Admin/Documents/curso dev.web/ProjetoCSS3 intermediario/estilo.css",
+		"/C/Users/Admin/Documents/ProjetoCSS3/AnaBele/contato.html",
+		"/C/Users/Admin/Documents/ProjetoCSS3/AnaBele/estilo.css",
+		"/C/Users/Admin/Documents/ProjetoCSS3/AnaBele/biografia.html",
+		"/C/Users/Admin/Documents/ProjetoCSS3/estilo.css",
+		"/C/Users/Admin/Documents/ProjetoCSS3/pagina2.html",
+		"/C/Users/Admin/Documents/ProjetoCSS3/pagina1.html",
+		"/C/Users/Admin/Documents/ProjetoCSS3/cor-imagem-fundo.html",
+		"/C/Users/Admin/Documents/ProjetoCSS3/estilos-texto.html",
+		"/C/Users/Admin/Documents/ProjetoCSS3/tamanho de textos.html",
+		"/C/Users/Admin/Documents/ProjetoCSS3/fonte-cores.html",
+		"/C/Users/Admin/Documents/ProjetoCSS3/bordas.html",
+		"/C/Users/Admin/Documents/ProjetoCSS3/div-spam.html",
+		"/C/Users/Admin/Documents/ProjetoCSS3/classes-ids.html",
+		"/C/Users/Admin/Documents/Corinthians/Copa do Brasil.html",
+		"/C/Users/Admin/Documents/Corinthians/brasileiros.html",
+		"/C/Users/Admin/Documents/ProjetoCSS3/inline-style.html",
+		"/C/Users/Admin/Documents/Projeto final HTML/index.html",
+		"/C/Users/Admin/Documents/Projeto final html/contato.html",
+		"/C/Users/Admin/Documents/Primeiro Projeto/projeto.html",
+		"/C/Users/Admin/Documents/Primeiro Projeto/index.html",
+		"/C/Users/Admin/Documents/Primeiro Projeto/contato.html",
+		"/C/Users/Admin/Documents/Projeto Web/index.html",
+		"/C/Users/Admin/Documents/Projeto aula/CSS/estilo-teste.css",
+		"/C/Users/Admin/Documents/Projeto aula/index.html"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
